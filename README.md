@@ -27,8 +27,8 @@ Put_{t}; \ \ если \ \ VIX_{t} < X \ и \ S_{t + 1} > K_{t} \\
 где:
 * <img src="https://latex.codecogs.com/gif.latex?Put_{t}" />- стоимость премии пут-опциона
 * <img src="https://latex.codecogs.com/gif.latex?X "/> - пороговое значение индекса VIX
-* <img src="https://latex.codecogs.com/gif.latex?K_{t} = S\&P_{t} "/> - страйк в момент времени t
-* <img src="https://latex.codecogs.com/gif.latex?S_{t+1} = S\&P_{t + 1} "/>- стоимость базового актива (уровень индекса S&P500) в момент времени t+1
+* <img src="https://latex.codecogs.com/gif.latex?$K_{t} = S\&P_{t}$ "/> - страйк в момент времени t
+* <img src="https://latex.codecogs.com/gif.latex?$S_{t+1} = S\&P_{t + 1}$ "/>- стоимость базового актива (уровень индекса S&P500) в момент времени t+1
 
 Разность между t+1 и t - месяц без выходных дней (примерно 25 дней)
 
