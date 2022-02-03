@@ -25,7 +25,7 @@ Put_{t}; \ \ если \ \ VIX_{t} < X \ и \ S_{t + 1} > K_{t} \\
 \end{cases}$$
 
 где:
-* <img src="https://render.githubusercontent.com/render/math?math={\color{white}\Put_{t}">- стоимость премии пут-опциона
+* <img src="https://render.githubusercontent.com/render/math?math={\color{white}Put_{t}">- стоимость премии пут-опциона
 * $X$ - пороговое значение индекса VIX
 * $K_{t} = S\&P_{t}$ - страйк в момент времени t
 * $S_{t+1} = S\&P_{t + 1}$ - стоимость базового актива (уровень индекса S&P500) в момент времени t+1
